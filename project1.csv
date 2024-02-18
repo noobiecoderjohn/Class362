@@ -1,0 +1,5 @@
+id,Airline,time,Los_Angeles,Phoenix,San_Diego,San_Francisco,Seattle
+1,ALASKA,"on time",497,221,212,501,"1,841"
+2,NULL,delayed,62,12,20,102,305
+3,AMWEST,"on time",694,"4,840",383,320,201
+4,NULL,delayed,117,415,65,129,61
